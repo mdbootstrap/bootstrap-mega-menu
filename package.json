@@ -1,25 +1,27 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
-  "main": "profile.html",
+  "name": "bootstrap-mega-menu",
+  "version": "1.0.0",
+  "description": "Responsive Mega Menu built with Bootstrap 5. Examples of dropdown on click and on hover. Templates with grid, images, links, lists and more.",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-mega-menu.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "navbar",
     "bootstrap5",
-    "circle-image-view"
+    "mega-menu",
+    "mega-menu-dropdown",
+    "bootstrap-mega-menu-news"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-mega-menu/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/mega-menu/"
 }
